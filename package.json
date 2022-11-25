@@ -1,6 +1,6 @@
 {
 	"name": "authorizer-svelte-test",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"license": "MIT",
 	"author": "Anik Ghosh",
 	"scripts": {
